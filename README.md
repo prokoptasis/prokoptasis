@@ -1,3 +1,4 @@
 ## Prokoptasis
 
-### [Web](https://prokoptasis.github.io)
+### [WEB](https://prokoptasis.github.io)
+
