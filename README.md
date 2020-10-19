@@ -1,6 +1,6 @@
 ## Hello World!
 
-### [Prokoptasis.github.io](https://prokoptasis.github.io)
+### [Prokoptasis.github.io](https://prokoptasis.github.io) : Github.io static web site from Hu-Go-Gril Project
 
 ## To-Do List
 
