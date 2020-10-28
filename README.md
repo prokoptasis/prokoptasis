@@ -10,6 +10,7 @@
 - SQL-L project
 - Docker-E Project
 - GO-O Project
+- GO-C Project
 - Rust-S Project
 - Tensorflow-B Project
 - AWS-T Project
@@ -34,10 +35,11 @@
 ### Back End
 
 - [~~SQL~~]
+- [~~Go~~]
+- [~~Rust~~]
 - PL/SQL
 - Oracle
 - Toad
-- Go
 - Dos Shell
 - Unix Shell
 
@@ -55,7 +57,7 @@
 
 ### Deep Learning
 
-- Machine Learning
+- [~~Machine Learning~~]
 - Python
 - Tensorflow
 - Numpy
@@ -72,7 +74,6 @@
 
 ### Game Dev
 
-- Rust
 - C
 - C++
 - C#
