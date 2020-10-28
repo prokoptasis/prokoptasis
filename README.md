@@ -6,7 +6,7 @@
 
 ### Projects
 
-- [~~hU-Go-Girl project~~]
+- ~~hU-Go-Girl project~~
 - SQL-L project
 - Docker-E Project
 - GO-O Project
@@ -29,14 +29,14 @@
 - HTML
 - CSS
 - Javascript
-- [~~Markdown~~]
+- ~~Markdown~~
 - Hugo
 
 ### Back End
 
-- [~~SQL~~]
-- [~~Go~~]
-- [~~Rust~~]
+- ~~SQL~~
+- ~~Go~~
+- ~~Rust~~
 - PL/SQL
 - Oracle
 - Toad
@@ -57,7 +57,7 @@
 
 ### Deep Learning
 
-- [~~Machine Learning~~]
+- ~~Machine Learning~~
 - Python
 - Tensorflow
 - Numpy
