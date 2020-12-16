@@ -11,7 +11,7 @@
 - Docker-E Project
 - GO-O Project
 - GO-C Project
-- ~~rust_sdl2~~
+- ~~Rust_SDL2~~
 - Tensorflow-B Project
 - AWS-T Project
 - Javascript-J Project
