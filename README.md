@@ -11,16 +11,16 @@
 - Docker-E Project
 - GO-O Project
 - GO-C Project
-- Rust-S Project
+- ~~rust_sdl2~~
 - Tensorflow-B Project
 - AWS-T Project
 - Javascript-J Project
 - Javascript-L Project
 - Apache/Nginx-B Project
-- C++\_D Project (Retrieve)
-- C++\_W Project (Retrieve)
-- C#\_Q Project (Retrieve)
-- C#\_C Project (Retrieve)
+- ~~Defenders~~
+- ~~Qordfighter~~
+- ~~QModeler~~
+- ~~Cube~~
 - VS_E Project (Retrieve)
 - Python_S Project (Retrieve)
 
@@ -59,7 +59,7 @@
 
 - ~~Machine Learning~~
 - Python
-- Tensorflow
+- ~~Tensorflow~~
 - Numpy
 - Pandas
 
